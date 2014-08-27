@@ -1,0 +1,6 @@
+Project name - UJC_spreadsheet
+Date of start - 28.08.2014
+Author - Abdulakhad Kuchkarov
+Project objective:
+Re-engineering business process by using new technologies.
+This app helps to reduce workload.  
